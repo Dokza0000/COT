@@ -1,0 +1,5 @@
+[[about]]
+[[blog-main]]
+[[content-guide]]
+[[gallery]]
+[[links]]
