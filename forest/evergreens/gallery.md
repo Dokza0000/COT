@@ -1,1 +1,1 @@
-![](neo-wake-up.png)
+![neo-wake-up](../../static/images/neo-wake-up.png)
