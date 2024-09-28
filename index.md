@@ -1,5 +1,5 @@
-[[about]]
-[[blog-main]]
-[[content-guide]]
-[[gallery]]
-[[links]]
+[about](about.md)
+[blog-main](blog-main.md)
+[content-guide](content-guide.md)
+[gallery](gallery.md)
+[links](links.md)
